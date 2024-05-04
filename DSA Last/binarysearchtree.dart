@@ -193,8 +193,8 @@ void main(List<String> args) {
   ..insert(val: 0)
   ..insert(val: 89)
   ..insert(val: 11);
-  b.findsize();
-  // b.finddepth(val: 0);
+  // b.findsize();
+  b.finddepth(val: 49);
   // b.isbstornot();
   // b.display();
   // b.nearest(val: 52);
